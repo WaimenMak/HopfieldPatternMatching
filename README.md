@@ -12,3 +12,17 @@ Chart patterns are significant for financial market behavior analysis. Lots of a
 ## Diagram
 
 <img src="README.assets/LAHN.png" alt="LAHN" style="zoom: 67%;" />
+
+## Cite
+```bibtex
+@article{mai2021application,
+  title={An Application of the Associate Hopfield Network for Pattern Matching in Chart Analysis},
+  author={Mai, Weiming and Lee, Raymond ST},
+  journal={Applied Sciences},
+  volume={11},
+  number={9},
+  pages={3876},
+  year={2021},
+  publisher={MDPI}
+}
+```
